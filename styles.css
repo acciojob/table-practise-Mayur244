@@ -1,7 +1,14 @@
 /*  your css code here. If applicable */
 table, th, td {
-	border : 1px solid black;
+	border : 1px solid rgb(0, 0, 0);
 }
 th, td {
-	background: yellow;
+	background-color : rgb(255, 255, 0);
 }
+/* 
+#container {
+	display : flex;
+	flex-direction : column;
+	justify-content: center;
+	align-items : center;
+} */
